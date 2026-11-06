@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abhishek%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Agents%20%E2%80%A2%20LLMs%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Mobile%20%26%20Full-Stack&descSize=17&descAlignY=58" alt="header" width="100%"/>
+<img src="./assets/header.svg" alt="Abhishek Chauhan" width="100%"/>
 
 </div>
 
@@ -187,6 +187,6 @@ agentforge approve                           # verifies the report, moves to the
 
 *"Coding is my passion."* 💭
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" alt="footer" width="100%"/>
+<img src="./assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
