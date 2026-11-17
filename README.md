@@ -143,13 +143,14 @@ agentforge approve                           # verifies the report, moves to the
 
 | Project | Description | Stack |
 |---|---|---|
+| [**genai-content-agent**](https://github.com/AbhishekChauhan2904/genai-content-agent) | Agentic AI system that generates beginner AI lessons, grades them against a 12-check PASS/FAIL rubric, and auto-regenerates until they pass. Built with LangGraph + RAG, with a self-learning memory that turns repeated failures into new prompt rules | Python • LangGraph • RAG |
+| [**uniproject**](https://github.com/AbhishekChauhan2904/uniproject) | GenAI-powered course finder that helps users discover courses | TypeScript • Next.js |
 | [**agentforge**](https://github.com/AbhishekChauhan2904/agentforge) | CLI that turns AI coding tools into a structured engineering workflow | JavaScript • Node.js |
 | [**pickup-counter**](https://github.com/AbhishekChauhan2904/pickup-counter) | Browse snacks, build a cart, pay via simulated UPI/card/net-banking, and claim the order at a locker | TypeScript |
 | [**chatbot**](https://github.com/AbhishekChauhan2904/chatbot) | LLM chatbot built on the Groq API | JavaScript |
 | [**doc-saas**](https://github.com/AbhishekChauhan2904/doc-saas) | Demo doctor portal | JavaScript |
 | [**imagesearch**](https://github.com/AbhishekChauhan2904/imagesearch) | Image search using a third-party API | JavaScript |
 | [**mini-job-board-application**](https://github.com/AbhishekChauhan2904/mini-job-board-application) | Mini job portal | JavaScript |
-
 ---
 
 ## 📊 GitHub Metrics
