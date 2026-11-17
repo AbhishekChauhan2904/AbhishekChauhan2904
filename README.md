@@ -186,7 +186,6 @@ agentforge approve                           # verifies the report, moves to the
 
 <br/>
 
-*"Coding is my passion."* 💭
 
 <img src="./assets/footer.svg" alt="footer" width="100%"/>
 
